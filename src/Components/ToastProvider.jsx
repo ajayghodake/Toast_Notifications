@@ -16,7 +16,6 @@ const ToastProvider = () => {
       pauseOnHover
       theme="colored"
       transition={Bounce}
-      bodyClassName="toastBody" 
     />
   );
 };
